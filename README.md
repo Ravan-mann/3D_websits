@@ -15,7 +15,5 @@ This project demonstrates interactive 3D elements and modern front-end web desig
 - [Three.js](https://threejs.org/)
 - HTML5
 - CSS3
-- JavaScript (ES6)
-
 ## 📁 Project Structure
 
